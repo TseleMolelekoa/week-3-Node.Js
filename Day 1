@@ -63,5 +63,38 @@ Node.js is an open-source, cross-platform JavaScript runtime environment that al
 It is built on Chrome's V8 JavaScript engine and provides a way to execute server-side JavaScript, enabling the development of scalable and high-performance network applications.
  is initiated on a computer by running JavaScript code using the Node.js runtime. You can create a JavaScript file with your code (for example, app.js) and run it through the Node.js interpreter in the command line by typing node app.js. 
 This will execute the code in the app.js file using Node.js.
+## how is NODE JS initiated on computer
 
+Node.js is initiated on a computer by running JavaScript code using the Node.js runtime. 
+
+########################################################################################################################
+Node Package Manager) is a package manager for the Node JavaScript platform. It consists of an npm registry that enables Open-Source developers to publish and share their code. You might need to install a few packages to streamline your project. Packages contain code written by other developers. Our root project has a package.json file that keeps track of all the packages we’ve installed. This file contains information about the project and defines the attributes that npm uses for installing dependencies, running scripts, and identifying the entry point for the package.
+
+The different types of dependencies are:  
+Production Dependencies
+Development Dependencies
+Peer Dependencies
+Optional Dependencies
+Bundled Dependencies
+
+ Dependencies are libraries on which the project relies to function effectively. 
+
+1. PRODUCTION DEPENDENCIES: 
+
+Production dependencies are fundamental dependencies that are required to complete the project. Package.json specifies these dependencies under the key “dependencies”. These are the packages used in the project code. If a package doesn’t already exist in the node_modules directory, then it is automatically added. These are the libraries you need when you run your code. For example, To run a react project, you need react-dom. In our production dependencies, you will find the express package we just installed. 
+
+2. DEVELOPMENT DEPENDENCIES: 
+
+As a developer, you may want to install dependencies to build and test your website. The packages required by a developer during development are called devDependencies. Dependencies that you might need at some point in the development process, but not during execution. They are not included in the production version and will not be downloaded to end user’s browser caches. For example, Nodemon, lodash, Babel etc.
+
+Note: Nodemon helps developers create node.js applications by automatically restarting the node application when a file change is detected in the directory.
+
+Adding dev dependency: By using the following command, let’s add nodemon as a dev dependency.
+3. PEER DEPENDENCIES:
+
+The only time you would encounter peer dependencies is if you were publishing your own package ie, when you develop a code that will be used by other programs. Libraries use peerDependencies to tell developers which other libraries with the exact version they will need to install in their own websites to use your library. Therefore, peer dependencies also express compatibility. The peerDependencies ensure that the code is compatible with the version of the package installed. peerDependencies are not automatically installed. You need to manually modify your package.json file in order to add a Peer Dependency.
+
+For packages like react, this will ensure that there is a single copy of react-dom which is also used by the person installing the package. Even though the package relies on React, it has no direct dependency. Things such as React and React-dom are required, but not installed.
+
+######################################################################################################################################END######################################################################################
 
