@@ -43,6 +43,8 @@ In progress features can be activated individually by their respective harmony f
 Which features ship with which Node.js version by default?
 The website node.green provides an excellent overview over supported ECMAScript features in various versions of Node.js, based on kangax's compat-table.
 
+
+
 Which features are in progress?
 New features are constantly being added to the V8 engine. Generally speaking, expect them to land on a future Node.js release, although timing is unknown.
 
@@ -54,3 +56,12 @@ What about the performance of a particular feature?
 The V8 team is constantly working to improve the performance of new language features to eventually reach parity with their transpiled or native counterparts in EcmaScript 5 and earlier. The current progress there is tracked on the website six-speed, which shows the performance of ES2015 and ESNext features compared to their native ES5 counterparts.
 
 The work on optimizing features introduced with ES2015 and beyond is coordinated via a performance plan, where the V8 team gathers and coordinates areas that need improvement, and design documents to tackle those problems.
+
+## Activity 3 question and answers.
+
+Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript code outside of a web browser. 
+It is built on Chrome's V8 JavaScript engine and provides a way to execute server-side JavaScript, enabling the development of scalable and high-performance network applications.
+ is initiated on a computer by running JavaScript code using the Node.js runtime. You can create a JavaScript file with your code (for example, app.js) and run it through the Node.js interpreter in the command line by typing node app.js. 
+This will execute the code in the app.js file using Node.js.
+
+
