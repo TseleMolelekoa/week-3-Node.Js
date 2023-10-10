@@ -1,0 +1,175 @@
+Module in Node.js serves as a functionality organized that is associated with multiple JavaScript files. Each module in Node.js comes with its context to stop interfering with other modules or polluting the global scope.
+
+##  List of Popular NodeJS libraries
+1. Express
+Express, one of the best Node.js libraries, has earned the reputation as the library that has the flexible, minimalist web framework for NodeJS. Install Express using the npm install command. For that, you will have to follow only the list of steps. There is a need to utilize the executable Express to generate your application.
+
+What makes this library the best is that it serves as a fast, unopinionated, minimalist web framework. Express, one of the core modules of node JS will be offering the best support with the minimal and extensible framework providing a set of common utilities.
+Also read:- Nodejs Frameworks
+
+2. Socket.io
+Socket.io is a mostpopular Node.js library that builds real-time applications and establishes bidirectional communication between servers and web clients. This library framework helps develop applications with requirements for WebSocket development. Socket.io enables real-time bi-direction event-based communications. It can work on any platform, device or browser and focuses equally o speed and reliability. Socket.io is built on WebSockets API (Client) and Node.js, and is considered to be the most dependent library on Node Package Manager.
+
+Features of Socket.io
+
+Provides binary support with a client-side and server-side library
+Offering multiple support systems
+Is very reliable
+Provides auto-reconnect support option
+Easy auto-reconnect and auto-correction options
+Similar APIs for server-side and client development
+Some companies that use Socket.io are:
+
+Microsoft Office
+Trello
+Yammer
+Zendesk
+3. Async.Js
+Developers are searching for the best JavaScript backend libraries and Async.js is one of them. It ensures the elimination of render-blocking JavaScript and increases the performance of web pages.
+
+Every website with JavaScript files within them ensures coding interactions with the website. The visitors can see this code on their screens when they visit the site. Async.js helps load this JavaScript content next to everything else. In addition to that, it will ensure increasing your website’s performance.
+
+4. Request
+The Request JavaScript library serves as a safe and dependable way to make HTTP calls for apps to access content from external sources. The request serves as the best way to make HTTP requests within the app. HTTP requests turn out to be the necessary component for apps. There is a need to call external sources, including websites, for data.
+
+This is one of the best libraries for Node.js that will be ideal for integrating authentication methods. Request module is favorable for making HTTP calls. Request offers the simplest way of making HTTP calls in node. Js using this request module.
+
+Read More:- Node.js Security Practices
+
+5. Ethers.js
+Next on the list of Node.js Modules is Ethers.js. This JavaScript library is perfect for interacting with Ethereum blockchains and their ecosystems. This simple, complete, secure library is used to build Ethereum-powered apps. Ethers.js offers a clean, powerful and easy-to-use API that works with Ethereum. This includes wallets, support for smart contracts, transactions and others. This flexible and extensible library provides installations using NPM packages for Node.js developers.
+
+Features of Ethers.js
+
+Easy-to-use API
+Simple interface
+Ethereum communities widely use it
+Provides support for both Node.js and web browsers
+Easy to deploy and interact with small contracts
+It can be used for contract testing
+It can be integrated with other Ethereum tools like Truffle and Remix
+Some of the companies that use Ethers.js are:
+
+PixelPlex
+Sotatek JSC
+Peiko
+Capital Numbers
+Newwave Solutions
+6. Mongoose
+Mongoose is an ODM or Object Data Modeling library built for Node.js and MongoDB. It is programmed to help manage relationships with data, offers schema validation and is used as a translator between objects in code and the representation of those objects in MongoDB. In addition to helping solve schema, Mongoose also includes multiple hooks, model validation, and other features that make it easier to work with MongoDB. Considered as one of the best node.js libraries, Mongoose contains 8 schema types that are:
+
+String
+Date
+Number
+Buffer
+Boolean
+Array
+Mixed
+Objected
+Each data type lets you specify the following:
+
+Default values
+Custom-validated functions
+Indicates a required field
+A set function that you can manipulate the data prior to its returning as an object
+A set function that lets users manipulate the data before it is stored
+Creating indexes so data can be fetched faster
+Some companies that use Mongoose are:
+
+Plastikon industries
+Institute for Mathematics and Computer Science (IMACS)
+JKR Advertising & Marketing Inc
+Trident Marketing
+7. UglifyJS2
+UglifyJS2 is one of the best Libraries and Tools in Node.Js that will ensure handling of the tedious work that will be assisting a lot in shortening and minifying JavaScript files.
+
+The library is the best for the high performance of a web page, saves space that finds use and loads other things. Performance increases to a huge extent when this excellent tool is there for better webpage performance.
+
+8. Jest
+Another Node helper library, Jest, is an open-source testing framework that is built on JavaScript. It is designed to work with React and React-Native web apps. This library validates everything in JavaScript that helps the browser rendering of web applications. It is also measured to be one of the most popular JavaScript testing frameworks. Jest also offers a blended package of an assertion library, a built-in mocking library and test runners. The tool also stands out and is perfect for testing JavaScript Library Projects like AngularJS, NodeJS, Vue JS, TypeScript and Babel.
+
+Features of Jest
+
+Provides speedy performance
+Is fast and safe
+Provides code coverage with no such additional setup required
+Has a custom resolver to make imports and it makes it easier to mock any object outside of the test scope
+Has pre-committed hooks that complete sets of test cases
+It is easy to migrate and switch to using the Jest framework programmatically
+Easy addition of features and configurations such as mock auto modules, module mappers, and set-up coverage thresholds
+Allows developers to write tests with familiar, approachable and feature-rich APIs that provide results
+Some companies that use Jest are:
+
+Facebook
+Amazon
+Airbnb
+Instagram
+Graphy
+9. Cors
+One of the best node.js packages, CORS offers a Connect/Express based middleware, finding the usage to facilitate CORS through multiple preferences. Implementing CORS in Node.js ensures accessing numerous functionalities on the browser. It is the best library that will be favorable for configuring and managing an HTTP server to access resources from the same domain.
+
+Node.Js libraries to enhance backend development will be beneficial for making cross-origin calls and is the most favorable for the modern web application: Cross-Origin Resource Sharing (CORS), the HTTP-header based mechanism allowing a server to indicate any origins.
+
+10. Passport
+Passport, the popular Express-compatible authentication middleware for Node.js. authenticates requests. Moreover, Passport does this through an extensible set of plugins.
+
+The passport serves as the authentication middleware as well as one of the best libraries for Node developers. It is flexible and modular and turns out to be an Express-based web application.
+
+11. Multer
+Multer, a Node.Js middleware for handling multipart as well as form-data, finds use for uploading files. Multer will not be processing any form which is not multipart.
+
+12. Gulp
+Gulp is a useful Node.Js Library that helps you automate painful tasks. In addition to that, it offers extensive support with the enhancement of your development workflow. Install Gulp using the npm install command:gulp.png.
+
+Use the executable gulp to generate the application. Be ready to leverage gulp and the flexibility of JavaScript. In addition to that, it will be assisting in automating slow, repetitive workflows and composing these elements into efficient build pipelines. Gulp, a task runner, uses Node. js is a platform and uses JavaScript code.
+
+Also, it ensures running front-end tasks and large-scale web applications. Gulp is highly beneficial for the system automated tasks, including concatenating library files, CSS and HTML minification, and compiling the SASS files.
+
+13. PM2
+Node.js serves as the preferred framework of developers and modules for NodeJS applications for enterprise applications as well as enterprise infrastructure. Node.js ensures offering process management and will be essential during development.
+
+PM2 serves as one of the premium features giving you the ability to manage production processes and assist with performance tweaks. It will be helping a simple reloading app with PM2 that ensures eliminating all the downtime.
+
+14. Browserify
+JavaScript’s libraries sometimes face challenges in managing them. Browserify allows the developers to find it convenient to check between templates and inspect the scripts associated with the libraries and widgets.
+
+Browserify, a node-based tool, ensures assisting the developers in organizing and building client-side codebases. In addition to that, it will also be essential for simplifying and streamlining the process. Also, it is favorable for giving a structure and systematic approach to client-side coding.
+
+The tool ensures offering better support with managing dependencies in different situations. The library in the development of NodeJS applications is the best perfect for developers who use libraries, Node JS Packages, and scripts.
+
+15. Parser
+Node.Js body parsing-based middleware is one of the essential elements of the Node.Js packages that work as inward request-based bodies right in a middleware prior to handlers that are accessible underneath the req.body property.
+
+The path.parse() method explicitly identifies usages in returning an object whose precise properties are represented with the offered path. The parser is the most favorable library for parsing the incoming request bodies in middleware.
+
+16. Nodemailer
+Send emails from Node.Js with Nodemailer that serves as the easy-to-use module for Node. js applications. This library is the solution most Node.Js users use. Nodemailer has been witnessing high usage lately for the simple reason that it’s licensed under MIT license.
+
+What you need to do is to create a package. json file. npm init -y. There, you will have to Install nodemailer npm install nodemailer -S. After that, you will have to Create server.js file directly or use command touch server.Js.
+
+17. Sequelize
+Sequelize serves as a precise Node.js ORM for Postgres, explicit MariaDB, SQLite, MySQL, and Microsoft SQL-based Server. What makes it impeccable in terms of its support is that it features solid transaction support, eager and lazy loading, relations, read replication, and more.
+
+18. JSHint
+JSHint serves as a tool that will be easily spotting massive codebase more mistakes. That said, the developers don’t need to waste time debugging. JSHint serves as static code that invites analysis tools, making it an effortless task to spot the issues in syntax.
+
+Linting your program will assist you a lot in identifying common mistakes. In addition to that, the library JSHint will help you find the possible errors in your JavaScript code.
+
+19. Axios
+Axios in the Node.js community serves as the library, working as a promise-based HTTP client for the browser and Node.Js. Axios will be offering the JavaScript library to execute HTTP-based requests, which works in the precise Browser and the Node.Js-based platforms.
+
+The library is also the best for modern browsers, including support for IE8 and higher. Axios will be working as the JavaScript library to make HTTP requests from the Node.Js or XMLHttpRequests. It works with intercept HTTP requests as well as responses and enables client-side protection against XSRF.
+
+20. Morgan
+HTTP request logger middleware for node.js is the best for logging in HTTP requests and errors. In Node. js middleware Morgan serves as a function that has access to the request.
+
+In addition to that, there is an association of response lifecycle methods as well as the next() method to continue logic in the Express server.
+
+21. Dotenv
+Dotenv for Node.js developers work as the zero-dependency module responsible for loading environment variables from a .env file into process.env. In addition to that, it will be assisting a lot in storing configuration in an environment that is completely different from the code DotEnv.
+
+It serves as a lightweight npm package that automatically ensures the loading environment variables and is based on the Twelve-Factor App methodology.
+
+22. Faker
+Faker, an open-source python library, allows the creation of your dataset. It will give you the scope to generate random data with random attributes.
+In addition to that, you will get the opportunity to tune machine learning models. The library is the best for creating immense amounts of fake information right in the browser and Node.Js.
